@@ -1,0 +1,3 @@
+C:/Users/Gabri/KernelForge/build/CMakeFiles/kernelforge.dir
+C:/Users/Gabri/KernelForge/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Gabri/KernelForge/build/CMakeFiles/ZERO_CHECK.dir
