@@ -1,1 +1,4 @@
 C:\Users\Gabri\KernelForge\src\main.cpp;C:\Users\Gabri\KernelForge\build\kernelforge.dir\Debug\main.obj
+C:\Users\Gabri\KernelForge\src\reference_gemm.cpp;C:\Users\Gabri\KernelForge\build\kernelforge.dir\Debug\reference_gemm.obj
+C:\Users\Gabri\KernelForge\src\verify.cpp;C:\Users\Gabri\KernelForge\build\kernelforge.dir\Debug\verify.obj
+C:\Users\Gabri\KernelForge\src\matrix_utils.cpp;C:\Users\Gabri\KernelForge\build\kernelforge.dir\Debug\matrix_utils.obj

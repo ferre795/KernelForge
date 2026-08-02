@@ -8,6 +8,13 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 add_executable(kernelforge
     src/main.cpp
+    src/reference_gemm.cpp
+    src/verify.cpp
+    src/matrix_utils.cpp
+)
+
+target_include_directories(kernelforge PRIVATE
+    ${CMAKE_SOURCE_DIR}/include
 )
 
 target_compile_options(kernelforge PRIVATE

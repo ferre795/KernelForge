@@ -4,6 +4,15 @@
     <ClCompile Include="C:\Users\Gabri\KernelForge\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\Gabri\KernelForge\src\reference_gemm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabri\KernelForge\src\verify.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Gabri\KernelForge\src\matrix_utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\Gabri\KernelForge\CMakeLists.txt" />
